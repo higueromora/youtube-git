@@ -1,0 +1,104 @@
+commit ac3b1e3ceec174907058ddfc0341fb3b67f97f40
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 12:34:06 2023 +0200
+
+    Agregando 2 parrafos
+
+commit 88114efbf6852f54bb92c2c9678cd32b16cb175a
+Merge: f8b4bbc 236a447
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 12:32:02 2023 +0200
+
+    Resolviendo conflicto en estaciones del año y en fecha de inicio
+
+commit f8b4bbcb2ab9a07c8f775978cd5634427a9f0a67
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 12:17:12 2023 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 236a447e596cf8397c572f4e21e0bce03fda6c5a
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 12:17:12 2023 +0200
+
+    Agrenado las estaciones del año
+
+commit 6cec7c76b1cb3390c765b3fd565bb166b1399139
+Merge: 8d05c10 29a7365
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 12:04:34 2023 +0200
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 29a73653a7fbe35add8d602c0a333b9f313e70d7
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:57:47 2023 +0200
+
+    Agregando index.js al index.html
+
+commit 8d05c103c35e1c926719edcda46e647bc27481ee
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:53:16 2023 +0200
+
+    Agregando style.css al index.html
+
+commit 4076105772cbcf7032e8ed196816e4709221b78b
+Merge: 6de52f3 f983580
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:35:15 2023 +0200
+
+    Merge branch 'js'
+
+commit f9835800e7a649f6b7c14b8ffedf2adda5694568
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:22:05 2023 +0200
+
+    Creando index.js
+
+commit 6de52f38b7c978879e222b85dc5216988dbfb1e1
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:17:50 2023 +0200
+
+    Creando style.css
+
+commit 92c1383a3a5451800d0e633ef6d35db1f5e9e78c
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:13:57 2023 +0200
+
+    Creando index.html
+
+commit 00cb81862aa5b067d28cd4bb26bb17551ca9edf8
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 11:07:25 2023 +0200
+
+    Creando index.html
+
+commit fc4efbd3b0d10fa01fd3bef5a1148603abf209d1
+Author: higueromora <higueromora@hotmail.com>
+Date:   Mon Oct 16 10:28:03 2023 +0200
+
+    Ignorando archivos .exe
+
+commit 5f708f7df05490c9d2fa32fea1b4ac42b27488ee
+Author: higueromora <105206720+higueromora@users.noreply.github.com>
+Date:   Mon Oct 16 09:30:28 2023 +0200
+
+    Creating a  license.txt for the repository
+
+commit 7baab672a5a51c5ac92fb0f1767d34fa611e9cac
+Author: higueromora <higueromora@hotmail.com>
+Date:   Thu Oct 12 11:50:06 2023 +0200
+
+    Agregando más contenido al README
+
+commit 053fc8aa56e4f06444a7351efc53e55a522f52b1
+Author: higueromora <higueromora@hotmail.com>
+Date:   Thu Oct 12 11:22:14 2023 +0200
+
+    Agregando contenido inicial al README
+
+commit 11574ab540e43ab8a428659e4be80ebb17d1606c
+Author: higueromora <higueromora@hotmail.com>
+Date:   Thu Oct 12 11:13:47 2023 +0200
+
+    Primer commit 😁
